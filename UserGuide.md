@@ -1,7 +1,5 @@
 # install_environment_macos
-This is my take on how to get up and running with NGINX, PHP-FPM, MARIADB and phpMyAdmin on OSX High Sierra & later version.
-
-This article is adapted by [Son T. Tran](https://github.com/trants).
+This is my take on how to get up and running with NGINX, PHP-FPM, MARIADB and phpMyAdmin on OSX High Sierra & latest version.
 
 ## Xcode
 Make sure you have the latest version of XCode installed. Available from the Mac App Store.
