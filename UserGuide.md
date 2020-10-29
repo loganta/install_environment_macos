@@ -243,3 +243,12 @@ nginx.logs.default.access
 nginx.logs.default-ssl.access
 nginx.logs.phpmyadmin.access
 ```
+#### Remove file .DS.store from git
+```
+Delete the most recent commit, keeping the work you've done:
+
+git reset --soft HEAD~1
+Delete the most recent commit, destroying the work you've done:
+
+git reset --hard HEAD~1
+```
