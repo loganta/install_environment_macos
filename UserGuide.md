@@ -54,6 +54,10 @@ Check that PHP-FPM is listening on port 9000:
 And start the database server:
 
     launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mariadb.plist
+    
+## if you can not use sudo mysql to connect mysql
+	you can use sudo mariadb -uroot -p
+	pass maybe is '123456'
   
 ## phpMyAdmin 
 
